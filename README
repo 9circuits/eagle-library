@@ -1,0 +1,30 @@
+This is the place where we store custom made eagle libraries that we created for certain projects. 
+
+The revisions will be marked here.
+
+
+#######################################################################
+Eagle installation:
+
+Windows:
+
+1. Get Eagle from http://www.cadsoft.de/download.htm
+2. Install it directly use as freeware
+
+Debian based system like Ubuntu
+
+1. sudo apt-get install eagle
+2. or go to the software centre and download eagle from there
+3. simply go to Applications > Programming > Eagle
+
+######################################################################
+
+You may need to refresh libraries instead of having to do it using the GUI everytime, simply go to 
+schematics or whatever you're making and type there
+
+use *
+
+
+This will use all the libraries present in the eagle lib folder.
+
+DasBai
